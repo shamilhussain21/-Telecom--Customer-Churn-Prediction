@@ -1,4 +1,4 @@
-📊 Telecom Customer Churn Prediction — Machine Learning Project
+# Telecom Customer Churn Prediction — Machine Learning Project 
 📝 Problem Statement
 Customer attrition (churn) occurs when customers stop doing business with a company. High churn directly impacts revenue, making it critical for telecom companies to identify customers at risk and proactively take retention actions.
 
