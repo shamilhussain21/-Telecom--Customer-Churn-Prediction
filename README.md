@@ -104,4 +104,7 @@ In this project, I leveraged data analytics and machine learning to build a pred
 - Strengthened skills in data preprocessing, class imbalance handling, model comparison, and tuning.  
 - Gained business understanding of customer behavior analytics in the telecom industry.
 
+## 📧 Contact
+
+For questions or collaboration, connect with me on [LinkedIn](https://www.linkedin.com/in/shamil-hussain-k-221190312) or view my full portfolio on [GitHub](https://github.com/shamilhussain21).
 
