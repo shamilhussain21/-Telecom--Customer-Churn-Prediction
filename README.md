@@ -6,7 +6,7 @@
 
 Customer attrition (churn) occurs when customers stop doing business with a company. High churn directly impacts revenue, making it critical for telecom companies to identify customers at risk and proactively take retention actions.
 
-In this project, we leverage data analytics and machine learning to build a predictive model using the **Telco Customer Churn dataset**. By analyzing customer demographics, service usage, and account details, we aim to classify customers who are likely to churn and provide insights for targeted retention strategies.
+In this project, I leveraged data analytics and machine learning to build a predictive model using the **Telco Customer Churn dataset**. By analyzing customer demographics, service usage, and account details, I aimed to classify customers who are likely to churn and provide insights for targeted retention strategies.
 
 ---
 
